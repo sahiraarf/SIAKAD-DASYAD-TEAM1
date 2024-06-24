@@ -6,6 +6,9 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 ## Authors
 
 - syahira ratu fadilla
+- asfazura hasugian
+- dewi insan damanik
+- al hudayana insyafie siregar
 
 ## references
 - [Pascal Adnan](https://www.github.com/lacsapadnan)
